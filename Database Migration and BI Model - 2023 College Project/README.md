@@ -1,4 +1,4 @@
-# Database Migration and BI Model
+# Database-Migration-and-BI-Model
 
 This project was a part of the Data Management course during 2023
 
