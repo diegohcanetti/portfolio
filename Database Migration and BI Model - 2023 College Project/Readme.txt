@@ -1,8 +1,7 @@
-Curso: K3013
-Numero de grupo: 39
-Integrantes: 
-- Hernández Canetti Diego 176.198-5
-- García Javier Federico 177.162-0
-- Bietti Federico Leonel 175.663-1
- 
-Email del Responsable: dhernandezcanetti@frba.utn.edu.ar
+# Database Migration and BI Model
+
+This project was a part of the Data Management course during 2023
+
+## Involved:
+- Migrating a denormalized database to a normalized structure. 
+- Developed a BI (Business Intelligence) data warehouse star schema model.
